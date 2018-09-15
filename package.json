@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "8-11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gildong25/chapter08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gildong25/chapter08/issues"
+  },
+  "homepage": "https://github.com/gildong25/chapter08#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-session": "^1.15.6"
+  }
+}
